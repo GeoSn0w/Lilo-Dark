@@ -1,5 +1,5 @@
-# Lilo-v4
-F.C.E. 365 Lilo v4 IPA
+# Lilo-DARK
+F.C.E. 365 Lilo v6 IPA
 
 A dumb app I am working on :)
 Can identify if you are Jailbroken, checks for iCloud Bypass Status, etc.
